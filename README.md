@@ -4,7 +4,7 @@
 
 
 
-```zsh
+```cvv
 github    $  defraudd
 discord   $  @xv
 tg        $  @m666rder
