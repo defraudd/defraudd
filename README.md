@@ -4,6 +4,6 @@
 
 ```xvz
 github    $  defraudd
-discord   $  @h666wl
+discord   $  @one/@h666wl
 tg        $  @m666rder
 ```
