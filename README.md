@@ -6,3 +6,5 @@
 github    $  defraudd
 discord   $  @wn_e
 ```
+
+I am a vibecoder, and I fully embrace that.
